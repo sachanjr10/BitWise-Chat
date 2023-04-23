@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BitWise-Chat/static/css/main.deb19a69.css",
+    "main.js": "/BitWise-Chat/static/js/main.a4174e76.js",
+    "static/media/signup.svg": "/BitWise-Chat/static/media/signup.131ae205a14e54ca4ebaefc9a6d05261.svg",
+    "static/media/login.svg": "/BitWise-Chat/static/media/login.3ee85999702f6bf0f257b1517d7f5c7f.svg",
+    "index.html": "/BitWise-Chat/index.html",
+    "main.deb19a69.css.map": "/BitWise-Chat/static/css/main.deb19a69.css.map",
+    "main.a4174e76.js.map": "/BitWise-Chat/static/js/main.a4174e76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb19a69.css",
+    "static/js/main.a4174e76.js"
+  ]
+}
